@@ -21,11 +21,11 @@ Fakhri Shop is a Flutter application that provides users with a seamless shoppin
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/Shahid-Fakhri/mealapp.git
+git clone https://github.com/Shahid-Fakhri/fakhri_shop.git
 ```
 2. Navigate to the project directory:
 ```
-cd mealapp
+cd fakhri_shop
 ```
 3. Install the dependencies:
 ```
